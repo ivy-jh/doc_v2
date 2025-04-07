@@ -1,24 +1,24 @@
-[cms-editor-master]
+[cms-editor-main]
 file_filter = locales/<lang>/cms-editor.json
 base_file = locales/en/cms-editor.json
-branch = master
-name = CMS Editor (master)
+branch = main
+name = CMS Editor (main)
 language = en
 file_format = json
 
-[common-master]
+[common-main]
 file_filter = locales/<lang>/common.json
 base_file = locales/en/common.json
-branch = master
-name = Common Strings (master)
+branch = main
+name = Common Strings (main)
 language = en
 file_format = json
 
-[dataclass-editor-master]
+[dataclass-editor-main]
 file_filter = locales/<lang>/dataclass-editor.json
 base_file = locales/en/dataclass-editor.json
-branch = master
-name = Dataclass Editor (master)
+branch = main
+name = Dataclass Editor (main)
 language = en
 file_format = json
 
